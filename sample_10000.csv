@@ -1,4 +1,4 @@
-"Recid","Comname","Comlocation","Recdate","Comsize","Advertising","Visit","Meeting","Tecconsult","Tecresearch","Costoffice","Costtravel","Costentertain","Costbonus","Sales"
+"Recid","Comname","Comlocation","Year","Comsize","Advertising","Visit","Meeting","Tecconsult","Tecresearch","Costoffice","Costtravel","Costentertain","Costbonus","Sales"
 "1","xxx","beijing","2019","middle","0","0","0","0","0","5875","721","701","791","299172"
 "2","xxx","shanghai","2020","small","0","0","23.8","65.1","11.1","904","242","159","497","133131"
 "3","xxx","shandong","2011","middle","13.2","47.2","0","0","39.7","4521","902","637","524","438508"
